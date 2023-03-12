@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: auto 2rem;
+}
+
+div#ezinnes-container,
+div#ummis-container,
+div#jeffs-container,
+div#seyi-container,
+div#doris-container
+{
+height: 100vh;
+max-width: 100%;
+}
